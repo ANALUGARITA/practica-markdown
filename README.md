@@ -6,9 +6,14 @@
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
 
+## Itálicas
+*Texto en Itálicas*  
+_Texto en Itálicas_
+
+
 ## Negritas
 
-## Itálicas
+
 
 ## Citas textuales
 
