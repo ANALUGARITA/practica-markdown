@@ -48,7 +48,6 @@ Miguel de Cervantes (1605)
 - Segundo elemento
 - Tercer elemento
 
-
 # HTML
 <h1>Encabezadode nivel 1</h1>
 <h2>Encabezadode nivel 2</h2>
@@ -58,7 +57,7 @@ Miguel de Cervantes (1605)
 <strong>Texto en negrita<strong>
 \
 <em>Texto en Italica<em>
-
+\
 <a href="https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured">Sitio Web de los videos del curso en la misma ventana</a>
 \
 <a href="https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured" target="_blank">Sitio Web de los videos del curso en otra ventana</a>
