@@ -17,11 +17,16 @@ _Texto en Itálicas_
 __Otro texto en negrita__
 
 ***Texto en negrita y en italica***
+\
 _**Texto en negrita y en italica**_
 
 ## Citas textuales
+> _En un lugar de la Mancha...
+\
+Miguel de Cervantes (1605)
 
 ## Hiperbinculos
+[Sitio Web de los videos deel curso ](https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured)
 
 ## Imágenes
 
