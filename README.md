@@ -26,7 +26,7 @@ _**Texto en negrita y en italica**_
 Miguel de Cervantes (1605)
 
 ## Hiperbinculos
-[Sitio Web de los videos deel curso ](https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured)
+![Sitio Web de los videos del curso ](https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured)
 
 ## Imágenes
 
