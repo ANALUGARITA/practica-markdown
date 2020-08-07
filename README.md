@@ -35,7 +35,16 @@ Miguel de Cervantes (1605)
 ### Otro Geoide pero desde la computadora
 ![](img/geoide.jpg)
 
-## Listas
+## Listas numeradas
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+## Listas no numeradas
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+
 
 # HTML
 <h1>Encabezadode nivel 1</h1>
@@ -45,7 +54,7 @@ Miguel de Cervantes (1605)
 
 <strong>Texto en negrita<strong>
 \
-<en>Texto en Italica<en>
+<em>Texto en Italica<em>
 
 <a href="https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured">Sitio Web de los videos del curso en la misma ventana</a>
 \
