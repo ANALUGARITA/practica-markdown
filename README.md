@@ -26,10 +26,15 @@ _**Texto en negrita y en italica**_
 Miguel de Cervantes (1605)
 
 ## Hiperbinculos
-[Sitio Web de los videos del curso ](https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured)
+[Sitio Web de los videos del curso](https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured)
 
 ## Imágenes
+### Un Geoide de internet
 ![](https://www.astrobitacora.com/wp-content/uploads/2016/08/geoide-tierra.jpg?resolution=1536,1.25)
+
+### Otro Geoide pero desde la computadora
+![](geoide.jpg)
+
 ## Listas
 
 # HTML
