@@ -33,7 +33,7 @@ Miguel de Cervantes (1605)
 ![](https://www.astrobitacora.com/wp-content/uploads/2016/08/geoide-tierra.jpg?resolution=1536,1.25)
 
 ### Otro Geoide pero desde la computadora
-![](geoide.jpg)
+![](img/geoide.jpg)
 
 ## Listas
 
