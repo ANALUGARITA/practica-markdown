@@ -50,3 +50,5 @@ Miguel de Cervantes (1605)
 <a href="https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured">Sitio Web de los videos del curso en la misma ventana</a>
 \
 <a href="https://www.youtube.com/channel/UC54fLwQJYtc9szJzNvH7zhw/featured" target="_blank">Sitio Web de los videos del curso en otra ventana</a>
+\
+<img src="img/geoide.jpg" alt="Un geoide desde mi computadora">
